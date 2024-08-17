@@ -2,9 +2,8 @@
 Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
-## Developed By: Karthikeyan R
-## Reg.NO: 212222240046
-# AIM:
+## Developed By: Jerowin Geo J A
+## Reg.NO: 212223100016
 To practice Linux Commands and Shell Scripting
 
 # DESIGN STEPS:
