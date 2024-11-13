@@ -1,12 +1,9 @@
-# OS-Linux-commands-Shell-scripting
-Operating systems Lab exercise
-# Linux commands-Shell scripting
-Linux commands-Shell scripting
-## Developed By: Jerowin Geo J A
-## Reg.NO: 212223100016
+# Linux-commands-Shell-scripting
+
+## AIM
 To practice Linux Commands and Shell Scripting
 
-# DESIGN STEPS:
+## DESIGN STEPS:
 
 ### Step 1:
 
@@ -20,7 +17,7 @@ Execute the following commands
 
 Testing the commands for the desired output. 
 
-# COMMANDS:
+## COMMANDS:
 ### Create the following files file1, file2 as follows:
 cat > file1
 ```
@@ -768,7 +765,7 @@ else
 echo "$val1 is less than $val2"
 fi
 ```
-##OUTPUT
+## OUTPUT
 
 ```
 baseball is less than hockey
